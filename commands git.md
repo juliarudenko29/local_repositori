@@ -35,5 +35,7 @@ ________
 _______
 
 * *git commit -am"second"* - объединяет функции          
-*git add* и *git commit*  
+*git add* и *git commit*, удобнее использовать ее
+-------
+  
 
